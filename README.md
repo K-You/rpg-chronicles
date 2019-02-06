@@ -88,8 +88,11 @@ Je trouve le regard du prêtre un peu louche, il n'a pas l'air ravi de nous voir
 
 "Vous êtes en Barovia, et au village de Barovia." (ce sont pas foulé pour celle là non plus pense-je)
 "Vous êtes arrivés sur des terres dont personne n'a plus réussi à s'enfuir depuis l'arrivée de ce brouillard sinistre."
+Et il vient d'où ce brouillard ? "Desole je ne peux pas vous aider. 
+ok ok, et est ce que vous auriez une carte des environs svp? o
+n ne connait pas du tout le coin. 
 
-
+et il nous tend ca :
 
 ___ Barovia _________________________ N _______________________________________
 |                                                                             |
@@ -107,4 +110,7 @@ W             ^   ^   ^      ^                    \   f    f        f         E
 |      (?)                                                                    |
 |                                                                             |
 |____________________________________ S ______________________________________|
+
+le B c
+a semble etre barovia du coup, le S c'est la forteresse de Strahd. le f des forets et le B 
 
