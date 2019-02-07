@@ -77,7 +77,7 @@ D'un commun accord, on ignore la supplique de l'elfe pour dormir sur place. ça 
 
 -------
 
-Après deux ou trois heures, nous y arrivons enfin. Ça ressemble à n'importe quel bled de n'importe quelle zone paumée. Enfin, c'est du bon bled quand même, quelques centaines d'âmes a priori. On passe devant l'auberge, les couche-tards semblent effrayés de nous voir. On hésite à s'y arrêter, mais on décide de se diriger plutôt vers l'église, on cherche des réponses. On semble ne faire que s'éloigner de notre quête initiale, et maintenant on est perdus sur un autre continent. Et on s'est fait aggresser par des mort-vivants qui semblent à la solde d'un vampire sadique. 
+Après deux ou trois heures, nous y arrivons enfin. Ça ressemble à n'importe quel bled de n'importe quelle zone paumée, avec une église, un manoir, probablement la maison du chef du village, des habitations, et une taverne. C'est du bon bled quand même, quelques centaines d'âmes a priori. On passe devant l'auberge, les couche-tards semblent effrayés de nous voir. On hésite à s'y arrêter, mais on décide de se diriger plutôt vers l'église, on cherche des réponses. On semble ne faire que s'éloigner de notre quête initiale, et maintenant on est perdus sur un autre continent. Et on s'est fait aggresser par des mort-vivants qui semblent à la solde d'un vampire sadique. 
 
 Evidemment, l'église est fermée. Machinalement, le clerc se met à psalmodier quelques mots et nous annonce discrètement : "Y'a un mort-vivant dans la crypte.". 
 Bordel encore un. Si ça se trouve c'est le comte Zarov ? On toque. Géadolf inspecte rapidement le symbole se trouvant sculté sur la porte, et nous apprend que c'est une église dédiée à la Reine Corbeau, une déesse de la mort qui, d'après lui, tient en horreur les mort-vivants... D'autant plus étrange est la présence d'une telle créature dans la crypte. Après quelques minutes, un vieux prêtre vient nous ouvrir. 
@@ -111,4 +111,49 @@ W             ^   ^   ^      ^                    \   f    f        f         E
 ```
 
 Le B à l'est est le village _Barovia_, le S est la forteresse de Strahd. On va tenter d'éviter cette zone pour l'instant... Le prêtre marmonne le nom des autres points, mais j'ai la tête ailleurs, je n'écoute plus vraiment. Je me dis que le vieux est en train de nous cacher la présence d'un mort-vivant dans son église. 
+
+Tiwix, Géadolf et Légolette continuent de presser l'homme d'église de questions. Que se passe-t-il dans ce village pour que les gens aient peur ? Pourquoi personne ne peut s'échapper d'ici ? Qu'est-ce que c'est que ce brouillard ? 
+Le prêtre répond à chacune, même si l'on sent que sa patience s'amenuise. C'est ainsi que nous apprenons que le village est la cible quotidienne d'attaques nocturnes de mort-vivants, que les gens ayant tenté de s'enfuir par le brouillard tournaient en rond et finissaient toujours par réapparaitre, vivants ou morts. Quant au brouillard, il est la cause du recluement de cette terre. Il est apparu il y a quelques centaines d'années, à la même époque que les premiers mort-vivants et de la main mise de Strahd sur la région. 
+En bref, ça sent la marave. 
+
+Et évidemment, là dessus Gouh pose la question qui fâche : "Pourquoi y'a un mort-vivant dans votre crypte ?". 
+
+Son visage s'assombri, il enroule sa carte, la remet dans son sac proche de la porte, et nous demande de sortir. 
+On essaye bien de négocier, en disant qu'on peut l'aider à s'en débarrasser, qu'on vient de péter du undead et qu'on est chauds pour recommencer, mais il a pas l'air de vouloir. Gouh profite de ce petit moment de chahut pour passer en douce dans le dos du prêtre et subtiliser la carte. Pas con, ça nous servira plus qu'à lui. 
+
+On se dirige maintenant vers l'auberge. Après une journée pareille, on a bien mérité une petite choppe. L'établissement est quasi vide, avec juste deux clients au comptoir, qui arrêtent leur conversation avec le tavernier en nous voyant. Alors que je cherche une table assez large pour six personnes des yeux, Tiwix aperçoit un troisième client en train de lire au coin du feu et se dirige vers lui. Gouh quant à lui décide de dérider l'ambiance en annonçant au tavernier qu'il offre une tournée à tout le monde. 
+
+On se pose en silence à une table, et on scrute alors les réactions de l'elfe qui écoute la conversation entre Tiwix et l'homme au coin du feu. 
+Ça a pas l'air super joyeux. 
+
+Quelques minutes plus tard, Tiwix revient vers nous pour nous briefer sur ce qu'il vient d'apprendre. L'homme au livre est le fils du maire Kolyanovitch, décédé une semaine plus tôt d'une attaque de mort-vivants. Les morts, aux ordres de Strahd, raident la ville quotidiennement depuis un mois environ. Le but de ces raids est de capturer la fille du défunt maire et soeur de l'homme, Irina. L'homme nous propose de passer la nuit dans son manoir, barricadé pour résister aux attaques. Voyant que notre groupe a l'air solide, il nous a demandé s'il nous était possible d'escorter sa soeur en sécurité au prochain village en suivant la route. 
+
+Vu qu'on est des gens sympa, et qu'on est partis pour être coincés en Barovia un moment, autant se faire bien voir par un des notables de la région. Du coup on accepte. On fini nos bières et nous revoilà dans la rue. 
+
+L'homme part devant, et nous indique qu'il part directement au manoir pour préparer de quoi nous loger. Après une petite discution animée, on décide de partir nous occuper du mort-vivant de la crypte, pour être sûrs qu'on se fasse pas piéger pendant la nuit. 
+
+En nous approchant de l'église, on repère un petit escalier descendant vers la crypte. Pratique. Je passe devant, la crypte est verrouillée par veille porte. J'essaye de l'arracher de ses gonds, mais échoue en me froissant presque un muscle. Gouh crochète la porte qui s'ouvre avec un bruit de raclement. Ça pue la mort. 
+
+Et là sortant des ténèbres de la crypte, un râle. 
+
+------
+
+Légolette croit voir un mouvement au fond de la crypte, j'allume une torche et passe devant, me positionnant au centre de la pièce, scrutant pour le moindre indice. Scipion me rejoint, tentant de percer lui aussi l'obscurité de ses yeux, mais rien ne nous indique de l'origine du son entendu.
+Jusqu'à ce qu'on lève les yeux. 
+Au dessus de nous, accroché au mur tel une araignée, un corps élancé, d'une pâleur presques éblouissante à la lumière de la torche, les yeux rouges, la mâchoire ouverte, les incisives longues et menaçantes. Bordel encore un vampire.
+
+La créature se laisse tomber sur Scipion, et lui assène un coup de griffe qui lui arrache le cuir du torse, et s'enfonce profondément dans sa chair. Il crie de douleur et riposte, mais la créature bloque consécutivement ses tentatives d'attaques de la droite et de la gauche. Legolette décoche une flêche dans le dos du monstre, mais ça n'a pas l'air de le gêner plus que ça. Gouh lance l'une de ses potions vertes puis, voyant l'absence totale d'effet, cours vers la porte qui mène à l'église et l'ouvre, Tiwix s'y rue tout en criant qu'il partait chercher le prêtre. Géadolf, déjà exténué, chante une prière qui semble handicaper le vampire. 
+Tout en lançant ma torche aux pieds du monstre, je dégaine mon épée et tente de le transpercer. Mais la bête esquive et la lame ne fait que glisser sans conséquence sur son torse. 
+Sans conséquence pour elle en tout cas. Pas pour moi. Scipion s'étant mis hors de sa portée, c'est moi qui me prends son attaque suivante, un violent coup de griffe qui déchire ma cote de maille et lacère mon corps. Je réussi malgré tout à contrer sa seconde charge, ralenti qu'il est par l'incantation du clerc. Une deuxième flèche de l'elfe vient se figer dans le dos du monstre, et Gouh saute à son tour sur le mort-vivant, et lui taillade les jambes, sans grand effet.
+C'est à ce moment là qu'une femme corbeau apparait au fond de la crypte, et que la porte se referme violemment derrière elle. L'aura magique se dispersant, Tiwix reprend sa forme originelle et nous hurle que le prêtre s'est pas laissé convaincre par son imitation de la Reine Corbeau pour venir nous aider. Il décoche au passage un trait de feu qui touche le vampire en plein torse. Ça sent la pourriture cramée, et ça a énervé le mort. "FAUT PLANTER UN PIEU DANS SON COEUR" hurle Scipion dans un flash de lucidité. Le vampire fonce vers le mago, je profite de la baisse de sa garde pour ramasser la torche, et la taille en pieu de fortune de deux coups de lame puis saute sur le monstre, l'attrape et tente de viser le coeur avec le pieu, mais la créature est encore trop rapide et se décale suffisament pour que le coup ne soit porté que dans l'épaule. L'elfe tente de l'immobiliser d'une flêche dans les jambes, mais le projectile rate sa cible et se perd au fond de la crypte. La bête frappe le pauvre magen qui aura décidement bien morflé aujourd'hui, et lui arrache de bons lambeaux de chair. Je profite qu'elle me tourne maintenant le dos pour passer lancer la torche-pieu à Scipion, et passer mes mains sous ses épaules, et l'immobiliser d'une brutale clé de bras qui n'est pas loin de lui démettre les épaules. Scipion fonce alors pour transpercer le coeur du vampire du pieu. 
+
+Il hurle et se réduit en cendre, alors que le pieu n'était plus qu'à quelques centimètres de m'atteindre moi. 
+
+On l'a eu ! 
+On l'a eu par Kord ! 
+
+On fouille rapidement la crypte : des bijoux de valeur et un livre. Le livre nous apprend que le vampire en question est le fils du prêtre, ça explique son absence de volonté pour l'éradication de la créature, qu'il était épris de la jeune Irina, et qu'il était parti à la recherche d'un artefact, l'épée de la Lumière, qui est supposé pouvoir anéantir Strahd et ses armées mort-vivantes. M'est avis qu'il a échoué dans son entreprise pour finir mort-vivant lui même dans la cave de son vieux. Du coup ça serait pas une mauvaise idée de trouver cette épée si on veut partir de Barovia un jour je pense. 
+Faudrait qu'on retourne parler un peu au prêtre aussi. Mais pour l'instant, priorité numéro une : se rendre au manoir, manger, et se reposer. Demain promet d'être une journée chargée aussi. 
+
+Et bordel ce jetlag.
 
