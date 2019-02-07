@@ -91,7 +91,7 @@ Je trouve le regard du prêtre un peu louche, il n'a pas l'air ravi de nous voir
  - Et il vient d'où ce brouillard ? - Désole je ne peux pas vous aider. - Ok ok, et est ce que vous auriez une carte des environs je vous prie ? on ne connait pas du tout le coin." 
 
 Le prêtre acquiesce et nous tend ceci :
-
+```
 ___ Barovia _________________________ N _______________________________________
 |                                                                             |
 |                                                          f                  |
@@ -108,6 +108,7 @@ W             ^   ^   ^      ^                    \   f    f        f         E
 |      (?)                                                                    |
 |                                                                             |
 |____________________________________ S ______________________________________|
+```
 
 Le B à l'est est le village _Barovia_, le S est la forteresse de Strahd. On va tenter d'éviter cette zone pour l'instant... Le prêtre marmonne le nom des autres points, mais j'ai la tête ailleurs, je n'écoute plus vraiment. Je me dis que le vieux est en train de nous cacher la présence d'un mort-vivant dans son église. 
 
