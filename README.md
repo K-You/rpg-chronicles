@@ -80,19 +80,17 @@ D'un commun accord, on ignore la supplique de l'elfe pour dormir sur place. ça 
 Après deux ou trois heures, nous y arrivons enfin. Ça ressemble à n'importe quel bled de n'importe quelle zone paumée. Enfin, c'est du bon bled quand même, quelques centaines d'âmes a priori. On passe devant l'auberge, les couche-tards semblent effrayés de nous voir. On hésite à s'y arrêter, mais on décide de se diriger plutôt vers l'église, on cherche des réponses. On semble ne faire que s'éloigner de notre quête initiale, et maintenant on est perdus sur un autre continent. Et on s'est fait aggresser par des mort-vivants qui semblent à la solde d'un vampire sadique. 
 
 Evidemment, l'église est fermée. Machinalement, le clerc se met à psalmodier quelques mots et nous annonce discrètement : "Y'a un mort-vivant dans la crypte.". 
-Bordel encore un. Si ça se trouve c'est le comte Zarov ? On toque. Après quelques minutes, un vieux prêtre vient nous ouvrir. 
+Bordel encore un. Si ça se trouve c'est le comte Zarov ? On toque. Géadolf inspecte rapidement le symbole se trouvant sculté sur la porte, et nous apprend que c'est une église dédiée à la Reine Corbeau, une déesse de la mort qui, d'après lui, tient en horreur les mort-vivants... D'autant plus étrange est la présence d'une telle créature dans la crypte. Après quelques minutes, un vieux prêtre vient nous ouvrir. 
 
 "Bonsoir mon Père", commence Tiwix, de loin le plus diplomate du groupe. "Nous sommes nouveaux sur ces terres et cherchions des informations sur ce village, cette terre, et globalement sur tout ce qui pourrait être intéressant pour des voyageurs dans ces contrées de savoir."
 
 Je trouve le regard du prêtre un peu louche, il n'a pas l'air ravi de nous voir, mais ne semble pas particulièrement menaçant, _juste_ hautain et méprisant. Néanmois il nous répond.
 
 "Vous êtes en Barovia, et au village de Barovia." (ce sont pas foulé pour celle là non plus pense-je)
-"Vous êtes arrivés sur des terres dont personne n'a plus réussi à s'enfuir depuis l'arrivée de ce brouillard sinistre."
-Et il vient d'où ce brouillard ? "Desole je ne peux pas vous aider. 
-ok ok, et est ce que vous auriez une carte des environs svp? o
-n ne connait pas du tout le coin. 
+"Vous êtes arrivés sur des terres dont personne n'a plus réussi à s'enfuir depuis l'arrivée de ce brouillard sinistre.
+ - Et il vient d'où ce brouillard ? - Désole je ne peux pas vous aider. - Ok ok, et est ce que vous auriez une carte des environs je vous prie ? on ne connait pas du tout le coin." 
 
-et il nous tend ca :
+Le prêtre acquiesce et nous tend ceci :
 
 ___ Barovia _________________________ N _______________________________________
 |                                                                             |
@@ -111,6 +109,5 @@ W             ^   ^   ^      ^                    \   f    f        f         E
 |                                                                             |
 |____________________________________ S ______________________________________|
 
-le B c
-a semble etre barovia du coup, le S c'est la forteresse de Strahd. le f des forets et le B 
+Le B à l'est est le village _Barovia_, le S est la forteresse de Strahd. On va tenter d'éviter cette zone pour l'instant... Le prêtre marmonne le nom des autres points, mais j'ai la tête ailleurs, je n'écoute plus vraiment. Je me dis que le vieux est en train de nous cacher la présence d'un mort-vivant dans son église. 
 
