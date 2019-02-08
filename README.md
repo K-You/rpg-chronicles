@@ -20,7 +20,7 @@
 Réveil en p'tite forme ce matin à l'auberge de Stilben. D'après Géadolf, Gandoulf a tenté d'entrer en communion avec des restes de spores démoniaques pendant la nuit, et il s'est "sporisé" (même pas 7h qu'il s'est déjà pinté le Génasi...). Bref on commence en apprenant qu'on a plus de mago dans ce groupe. 
 On traine un peu dans la taverne en se demandant quoi faire, quand arrivent deux mecs un peu chelous, mais bon, qui ne l'est pas en Taldorei?
 
-Le premier, un moine du nom de Scipion, se prétend être un moine combattant des menaces, démoniaques entre autres. Il vient chercher des informations auprès de nous parceque nous sommes l'un des dernier groupes ayant été vus à sortir de la maison du noble avant que celle-ci ne se fasse infester.  Question discretion on repassera.
+Le premier, un moine du nom de Scipion, prétend combattre des menaces, démoniaques entre autres. Il vient chercher des informations auprès de nous parceque nous sommes l'un des dernier groupes ayant été vus à sortir de la maison du noble avant que celle-ci ne se fasse infester.  Question discretion on repassera.
  
 Le second, vachement plus chelou que le premier. Il est grand, rouge et avec des cornes. Mais ça a pas l'air d'inquiêter le moine. Pourtant c'est pas loin de ma définition à moi d'un démon. Je vois pas ce qu'il faut de plus, à part une queue fourchue peut-être. Mais j'ai pas trop envie de lui demander de nous montrer sa queue.
 Bref, le "faux démon", répondant au nom de Tiwix, nous apprend qu'il est un jeune mage, et que notre conversation l'intéresse, il voudrait à en apprendre plus sur cette histoire de champignons démoniaques. 
