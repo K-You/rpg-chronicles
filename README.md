@@ -159,3 +159,9 @@ Et bordel ce jetlag.
 
 # III - Quand on parle du loup ... 
 
+
+Le lendemain, lorqu'Eldoran se réveilla, il découvrit une certaine effervescence au sein du groupe : "Légolette et Scipion ont la crève, lui apprit Gouh, ils vont rester ici et nous rejoindront au village de Valaki quand ils iront mieux." 
+Tiwix & Géadolf avalèrent un petit déjeuné en vitesse et firent un tour dans la bibliothèque du manoir, dans l'espoir d'en apprendre plus sur la région qu'avec la discussion de la veille avec le prêtre de la Reine Corbeau. Le guerrier rejoignit leur hôte, Ismark Kolyanovitch, alors en train de s'équiper dans l'armurerie, et tenta de le convaincre de lui céder l'une des armures exposées. Sans succès. Le hobbit, quant à lui, suivi Irina dans sa chambre, et, probablement excités tous deux par l'inconnu, le danger, et la forte probabilité mort imminente, ils succombèrent au plaisir de la chair. 
+Dans l'heure qui suivi, le groupe se metta en route pour rejoindre le village fortifié de Valaki. Ils partirent avec un cheval, et laissèrent le second pour que l'elfe et le moine puissent les rejoindre sans trop de difficultés. 
+
+Pendant qu'ils marchaient, les deux érudits partagèrent leurs trouvailles de la matinée avec le reste du groupe. Ils apprirent que Valaki était protégée par une garnison de soldat de Kord. Cette nouvelle fit plaisir à Eldoran, lui-même ancien quartier-maître des armées du dieu de la guerre. La route continuerait ensuite jusqu'à l'abbaye de Kriesk. Le seul autre lieu hors d'atteinte de Strahd, d'après Ismark. Au Sud-Ouest de Valaki, perché dans les montagnes, se trouvait le temple de Bahamut. Un ancien ordre de paladins protégeant l'accès au temple d'Ambre, place maudite se trouvant lui au Sud-Ouest du temple de Bahamut. Le temple d'Ambre est d
