@@ -234,27 +234,26 @@ Eldoran parti annoncer la nouvelle au génasi, lui aussi maudit. Gouh resta enco
 
 Puis, il trouva sur ce qui semblait être un journal : 
 
-`
-Je suis l'Ancien, je suis la Terre. Mes débuts se perdent dans les ténèbres du passé. J'étais le guerrier, j'étais bon et juste. J'ai tonné au dessus de la terre comme la colère d'un dieu juste, mais les années de guerre et les années meurtières ont épuisé mon âme lorsque le vent a transformé la pierre en sable.
-
-Toute bonté a glissé de ma vie. J'ai retrouvé ma jeunesse et ma force et tout ce que me restait était la mort. Mon armée s'est installée dans la vallée de Barovie et a pris le pouvoir sur le peuple au nom d'un dieu juste, mais sans la grâce ni la justice d'un dieu. J'ai appelé ma famille, longtemps assise sur l'ancien trône, et je l'ai amenée ici pour s'installer dans le château de Ravenloft. Ils sont venus avec mon plus jeune frère, Karl. Il était beau et jeune. Je le détestais pour les deux.
-
-Parmis les familles de la vallée, un esprit brillait par dessus tous. Une beauté rare, appelée "perfection", "joie", et "trésor". Elle s'appelait Tatyana et j'avais très envie qu'elle soit à moi. Je l'aimais de tout mon coeur. Je l'aimais pour sa jeunesse. Je l'aimais pour sa joie. Mais elle m'a méprisé ! "Old One" était mon nom pour elle - "aîné" et "frère" aussi. Son coeur est allé à Karl. Ils étaient fiancés. La date était fixée. 
-
-Avec des mots, elle m'a appelé "frère", mais quand je l'ai regardée dans les yeux, ils ont reflété un autre nom - "mort". C'est la mort du vieillard qu'elle a vu en moi. Elle aimait sa jeunesse et en profitait. Mais j'avais gaspillé le mien. La mort qu'elle a vu en moi l'a détournée de moi. Et alors je suis venu à haïr la mort, ma mort. Ma haine est très forte : on ne m'appelerait pas "mort" si tôt. J'ai fait un pacte avec Lui, un pacte de sang. Le jour du mariage, j'ai tué Karl, mon frère. Mon pacte était scellé avec son sang, sa ... divinité. 
-
-J'ai trouvé Tatyana en train de pleurer dans le jardin à l'est de la chapelle. Elle s'est enfuie de moi. Elle ne m'a pas laissé expliquer, et une grande colère a enflé en moi. Elle devait comprendre le pacte que j'ai fait pour elle ! Je l'ai poursuivie. Désespérée, elle s'est jetée des murs de Ravenloft et j'ai vu tout ce que je souhaitais hors de ma portée pour toujours.
-
-C'était mille pieds à travers les brumes. Aucune trace d'elle n'a jamais été trouvée. Même moi je ne connais pas son destin final.
-
-Les flèches des gardes du château m'ont transpercé jusqu'à l'âme, mais je ne suis pas mort. Je n'ai pas vécu non plus. Je suis devenu mort-vivant pour toujours. 
-
-J'ai beaucoup étudié depuis. "Vampyr" est mon nouveau nom. J'ai toujours soif de vie et de jeunesse, et je maudis la vie que me les a pris. Même le soleil est contre moi. C'est le soleil et la lumière que je crains le plus. Mais peu d'autre chose peuvent me faire du mal maintenant. Même un pieu dans mon coeur ne me tue pas, même s'il m'empêche de bouger. Mais l'épée, cette épée maudite que Karl a apportée ! Je dois disposer de cet outil terrible ! Je le crains et le déteste autant que le soleil. Je l'ai cachée là où mon frère préférait passer son temps. Le gardien des lieux a ses pieds dessus. 
-
-J'ai aussi beaucoup appris sur ce pays de Barovia. Ancien sont ses voies, antiques au delà de la connaissance des gens simples de la vallée. Des anciens saints habitaient cette vallée bien avant mon arrivée. J'ai visité les chenaux des marais, des forêts et des montagnes et j'ai réclamé leur pouvoir pour le mien. Leurs serviteurs me servent maintenant et je suis donc devenu la Terre. 
-
-J'ai souvent chassé Tatyana. Je l'ai même sentie à ma portée, mais elle m'échappe ! Elle me nargue ! Elle me nargue ! Que faudra-t-il pour pour me plier à son amour ? Je vis parmis les morts et je dors sous les pierres mêmes de ce chateau creux du désespoir. Je fermerai les murs de l'escalier pour que personne ne me dérange. 
-
-`
+>
+>Je suis l'Ancien, je suis la Terre. Mes débuts se perdent dans les ténèbres du passé. J'étais le guerrier, j'étais bon et juste. J'ai tonné au dessus de la terre comme la colère d'un dieu juste, mais les années de guerre et les années meurtières ont épuisé mon âme lorsque le vent a transformé la pierre en sable.
+>
+>Toute bonté a glissé de ma vie. J'ai retrouvé ma jeunesse et ma force et tout ce que me restait était la mort. Mon armée s'est installée dans la vallée de Barovie et a pris le pouvoir sur le peuple au nom d'un dieu juste, mais sans la grâce ni la justice d'un dieu. J'ai appelé ma famille, longtemps assise sur l'ancien trône, et je l'ai amenée ici pour s'installer dans le château de Ravenloft. Ils sont venus avec mon plus jeune frère, Karl. Il était beau et jeune. Je le détestais pour les deux.
+>
+>Parmis les familles de la vallée, un esprit brillait par dessus tous. Une beauté rare, appelée "perfection", "joie", et "trésor". Elle s'appelait Tatyana et j'avais très envie qu'elle soit à moi. Je l'aimais de tout mon coeur. Je l'aimais pour sa jeunesse. Je l'aimais pour sa joie. Mais elle m'a méprisé ! "Old One" était mon nom pour elle - "aîné" et "frère" aussi. Son coeur est allé à Karl. Ils étaient fiancés. La date était fixée. 
+>
+>Avec des mots, elle m'a appelé "frère", mais quand je l'ai regardée dans les yeux, ils ont reflété un autre nom - "mort". C'est la mort du vieillard qu'elle a vu en moi. Elle aimait sa jeunesse et en profitait. Mais j'avais gaspillé le mien. La mort qu'elle a vu en moi l'a détournée de moi. Et alors je suis venu à haïr la mort, ma mort. Ma haine est très forte : on ne m'appelerait pas "mort" si tôt. J'ai fait un pacte avec Lui, un pacte de sang. Le jour du mariage, j'ai tué Karl, mon frère. Mon pacte était scellé avec son sang, sa ... divinité. 
+>
+>J'ai trouvé Tatyana en train de pleurer dans le jardin à l'est de la chapelle. Elle s'est enfuie de moi. Elle ne m'a pas laissé expliquer, et une grande colère a enflé en moi. Elle devait comprendre le pacte que j'ai fait pour elle ! Je l'ai poursuivie. Désespérée, elle s'est jetée des murs de Ravenloft et j'ai vu tout ce que je souhaitais hors de ma portée pour toujours.
+>
+>C'était mille pieds à travers les brumes. Aucune trace d'elle n'a jamais été trouvée. Même moi je ne connais pas son destin final.
+>
+>Les flèches des gardes du château m'ont transpercé jusqu'à l'âme, mais je ne suis pas mort. Je n'ai pas vécu non plus. Je suis devenu mort-vivant pour toujours. 
+>
+>J'ai beaucoup étudié depuis. "Vampyr" est mon nouveau nom. J'ai toujours soif de vie et de jeunesse, et je maudis la vie que me les a pris. Même le soleil est contre moi. C'est le soleil et la lumière que je crains le plus. Mais peu d'autre chose peuvent me faire du mal maintenant. Même un pieu dans mon coeur ne me tue pas, même s'il m'empêche de bouger. Mais l'épée, cette épée maudite que Karl a apportée ! Je dois disposer de cet outil terrible ! Je le crains et le déteste autant que le soleil. Je l'ai cachée là où mon frère préférait passer son temps. Le gardien des lieux a ses pieds dessus. 
+>
+>J'ai aussi beaucoup appris sur ce pays de Barovia. Ancien sont ses voies, antiques au delà de la connaissance des gens simples de la vallée. Des anciens saints habitaient cette vallée bien avant mon arrivée. J'ai visité les chenaux des marais, des forêts et des montagnes et j'ai réclamé leur pouvoir pour le mien. Leurs serviteurs me servent maintenant et je suis donc devenu la Terre. 
+>
+>J'ai souvent chassé Tatyana. Je l'ai même sentie à ma portée, mais elle m'échappe ! Elle me nargue ! Elle me nargue ! Que faudra-t-il pour pour me plier à son amour ? Je vis parmis les morts et je dors sous les pierres mêmes de ce chateau creux du désespoir. Je fermerai les murs de l'escalier pour que personne ne me dérange. 
+>
 
 Les yeux du mage glissaient sur le journal, dont les informations 
